@@ -6,7 +6,7 @@ This simple Python project creates an animated GIF from multiple image files usi
 
 ## ✨ What This Project Does
 
-This script takes a list of image files (for example, `team-pic1.png`, `team-pic2.png`) and combines them into a single animated GIF called **`team.gif`**.
+This script takes a list of image files  and combines them into a single animated GIF .
 
 Each frame in the GIF displays for **500 milliseconds**, and the animation loops **infinitely** (until you stop it).
 
